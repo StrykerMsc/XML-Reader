@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.526,C:\Users\user-pc\Documents\Embarcadero\Studio\Projects\El proyecto de tres\Unit1.dfm=C:\Users\user-pc\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.308,C:\Users\user-pc\Documents\Embarcadero\Studio\Projects\El proyecto de tres\Unit1.dfm=C:\Users\user-pc\Desktop\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.526,C:\Users\user-pc\Documents\Embarcadero\Studio\Projects\El proyecto de tres\Unit1.pas=C:\Users\user-pc\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.948,C:\Users\user-pc\Documents\Embarcadero\Studio\Projects\El proyecto de tres\Project1.dproj=C:\Users\user-pc\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.106,C:\Users\user-pc\Documents\Embarcadero\Studio\Projects\El proyecto de tres\Project1.dproj=C:\Users\user-pc\Desktop\Project1.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.995,C:\Users\user-pc\Desktop\Unit1.pas=H:\Практика_Внуково\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.308,C:\Users\user-pc\Documents\Embarcadero\Studio\Projects\El proyecto de tres\Unit1.pas=C:\Users\user-pc\Desktop\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.171,C:\Users\user-pc\Documents\Embarcadero\Studio\Projects\El luchador\Project1.dproj=C:\Users\user-pc\Documents\Embarcadero\Studio\Projects\El proyecto de tres\Project1.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.024,C:\Users\user-pc\Documents\Embarcadero\Studio\Projects\El luchador\Project1.dproj=C:\Users\user-pc\Documents\Embarcadero\Studio\Projects\El proyecto de tres\Project1.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.401,C:\Users\user-pc\Desktop\Project1.dproj=H:\Практика_Внуково\Project1.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.018,=C:\Users\user-pc\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.995,C:\Users\user-pc\Desktop\Unit1.dfm=H:\Практика_Внуково\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.673,C:\Users\user-pc\Documents\Embarcadero\Studio\Projects\El luchador\Project1.dproj=C:\Users\user-pc\Documents\Embarcadero\Studio\Projects\El luchador\Project1.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
